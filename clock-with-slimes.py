@@ -49,13 +49,13 @@ SLIME_BREATHE = [
 ]
 SLIME_STRETCH = [
     "  .-.  ",
-    " (o o) ",
+    " (> <) ",
     " (   ) ",
     "  `-'  ",
 ]
 SLIME_SQUASH = [
     ".-----.",
-    "( o o )",
+    "( = = )",
 ]
 
 
